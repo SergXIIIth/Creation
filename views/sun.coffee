@@ -1,0 +1,1 @@
+alert 'coffee script here'
